@@ -10,6 +10,12 @@ For get it, usage this code:
 [![https://github.com/varabeis](https://github.com/varabeis/Readme/blob/main/Buttons/follow-me-varabeis.svg)](https://github.com/varabeis)
 ```
 
+Scheme this:
+
+```md
+[![thumbail](url-to-button)](open-link)
+```
+
 You can change tap link and link to source of button.
 
 ## Other Projects
